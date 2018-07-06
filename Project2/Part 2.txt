@@ -1,0 +1,13 @@
+/*Sam Lee
+  6/10/2018
+  CSC 130
+  Project #2
+*/
+Enter 1 for Part 1 for BST Test(Adding and Deleting): 
+ Enter 2 for Part 1 for AVL Test(Adding, Deleting, Rotating): 
+ Enter 3 for Part 2 for time difference: 
+3
+BST Insertion Time For 1 million nodes: 70.41277ms
+AVL Insertion Time For 1 million nodes: 1218.365774ms
+
+
